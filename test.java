@@ -9,6 +9,7 @@ public class test
 {
     // variables d'instance - remplacez l'exemple qui suit par le vôtre
     private int x;
+    private int y;
 
     /**
      * Constructeur d'objets de classe test
