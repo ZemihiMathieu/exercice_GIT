@@ -21,7 +21,7 @@ public class Game
     private Room currentRoom;
         
     /**
-     * Create the game and initialise its internal map. commentaire
+     * Create the game and initialise its internal map. commentaire dls
      */
     public Game() 
     {
